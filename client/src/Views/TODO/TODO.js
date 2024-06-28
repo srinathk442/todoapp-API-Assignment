@@ -9,7 +9,7 @@ export function TODO(props) {
     const [loading, setLoading] = useState(true);
     const [editingId, setEditingId] = useState(null);
     const [editingTitle, setEditingTitle] = useState('');
-    const [editingDescription, setEditingDescription] = useState('');
+    const [editingDescription, setEditingDescription] = useState('This is a description');
 
     useEffect(() => {
         const fetchTodo = async () => {
