@@ -1,1 +1,1 @@
-This is todoapp with frontend and backend with APIs
+This is a todo app with frontend and backend with APIs
